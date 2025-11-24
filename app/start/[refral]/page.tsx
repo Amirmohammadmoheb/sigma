@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Refral from "./refral"
+import Refral from "@/app/refral"
 export default function Home(){
   return(
     <>
